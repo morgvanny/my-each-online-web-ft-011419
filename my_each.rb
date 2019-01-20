@@ -6,4 +6,3 @@ def my_each(array)
   array
 end
 
-[1,2,3]
