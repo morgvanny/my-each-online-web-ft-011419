@@ -1,4 +1,4 @@
-def my_each(array)
+def my_each(array, block_method)
   
   yield(array[0])
   yield(array[1])
