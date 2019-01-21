@@ -8,7 +8,7 @@ def my_each(array)
 end
 
 
-j = []
+
 do |i|
- j<< i
+ j<< i + 3
 end
