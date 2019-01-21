@@ -8,7 +8,7 @@ def my_each(array)
 end
 
 
-
+j = []
 do |i|
-  "hi I'm a block"
+ j<< i
 end
