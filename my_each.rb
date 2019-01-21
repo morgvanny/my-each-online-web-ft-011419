@@ -7,3 +7,8 @@ def my_each(array)
   array
 end
 
+
+
+do |i|
+  "hi I'm a block"
+end
