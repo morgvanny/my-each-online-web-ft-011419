@@ -6,9 +6,3 @@ def my_each(array)
   end
   array
 end
-
-
-
-do |i|
- j<< i + 3
-end
